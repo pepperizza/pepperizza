@@ -1,8 +1,11 @@
-# 👋 Hi, I'm [Giuseppe Rizza] but i usually go for Peppe!
+# 👋 Hi, I'm Giuseppe Rizza (but i usually go for Peppe!)
 
-## 👨‍💻 Computer Engineer | Aspiring Data Scientist
+## 👨‍💻 Software Engineer | Aspiring Data Scientist
 
-Welcome to my GitHub space! I'm a software engineer transitioning into the world of data science and artificial intelligence.
+Welcome to my GitHub space! 
+After two years of professional experience as a **PL/SQL Developer** and **Configuration Manager**, I decided to focus fully on working with data: 
+analyzing it, modeling it, and turning it into insight.
+
 
 ## 🎓 Education
 - Master's Degree in Software Engineering (2025)
@@ -29,7 +32,7 @@ I'm constantly improving and customizing these projects, transforming them from 
 - **Tools**: Jupyter, Git
 
 ## 📫 Contact
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/giusepperizzaa/)
+- LinkedIn: [Giuseppe Rizza](https://www.linkedin.com/in/giusepperizzaa/)
 - Email: [pepperre3@gmail.com]
 
 ---
