@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Giuseppe Rizza (but i usually go for Peppe!)
+# 👋 Hi, I'm Giuseppe Rizza (but i usually go for Peppe)
 
 ## 👨‍💻 Software Engineer | Aspiring Data Scientist
 
