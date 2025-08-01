@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Giuseppe Rizza (but i usually go for Peppe)
 
-## 👨‍💻 Software Engineer | Aspiring Data Scientist
+## 👨‍💻 Software Engineer | Aspiring Data Scientist / AI Engineer / Data Engineer
 
 Welcome to my GitHub space! 
 After two years of professional experience as a **PL/SQL Developer** and **Configuration Manager**, I decided to focus fully on working with data: 
@@ -13,7 +13,7 @@ analyzing it, modeling it, and turning it into insight.
   - Machine Learning
   - Deep Learning
   - Natural Language Processing
-  - Large Language Models (ongoing)
+  - Large Language Models 
 
 ## 🔍 What you'll find here
 This repository is a collection of my personal and course-based projects in data science.  
@@ -28,7 +28,7 @@ I'm constantly improving and customizing these projects, transforming them from 
 
 ## 🛠️ Tech Stack
 - **Languages**: Python, SQL
-- **Libraries**: pandas, NumPy, scikit-learn, TensorFlow, Keras, NLTK, spaCy, Matplotlib, Seaborn
+- **Libraries**: pandas, NumPy, scikit-learn, TensorFlow, Keras, NLTK, spaCy, Matplotlib, Seaborn, HuggingFace
 - **Tools**: Jupyter, Git
 
 ## 📫 Contact
